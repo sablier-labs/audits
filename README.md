@@ -11,15 +11,15 @@ This repo aggregates all smart contract audits performed on Sablier by third-par
 [07014ac]: https://github.com/sablier-labs/v2-core/commit/07014ac599908207934f0f5831471e10c8ab3447
 [5997ac0]: https://github.com/sablier-labs/v2-core/commit/5997ac05751960259c03aa166158d5db8aea1675
 
-| Auditor        | Type | Initial Commit       | Report                                        |
-| :------------- | :--- | :------------------- | :-------------------------------------------- |
-| Cantina        | Firm | [`07014ac`][07014ac] | [2023-07-11](./audits/cantina-2023-07-11.pdf) |
-| Iaroslav Mazur | Solo | [`5997ac0`][5997ac0] | [2023-06-13](./audits/iaro-2023-06-13.pdf)    |
-| Cantina        | Firm | [`8bd57eb`][8bd57eb] | [2023-06-08](./audits/cantina-2023-06-08.pdf) |
-| Rahul Saxena   | Solo | [`8bd57eb`][8bd57eb] | [2023-04-24](./audits/rahul-2023-04-24.pdf)   |
-| Iaroslav Mazur | Solo | [`8bd57eb`][8bd57eb] | [2023-04-04](./audits/iaro-2023-04-04.pdf)    |
-| HYDN           | Firm | [`8bd57eb`][8bd57eb] | [2023-04-03](./audits/hydn-2023-04-03.pdf)    |
-| Hake           | Solo | [`8bd57eb`][8bd57eb] | [2023-03-31](./audits/hake-2023-03-31.pdf)    |
+| Auditor        | Type | Initial Commit       | Report                                         |
+| :------------- | :--- | :------------------- | :--------------------------------------------- |
+| Cantina        | Firm | [`07014ac`][07014ac] | [2023-07-11](./v2-core/cantina-2023-07-11.pdf) |
+| Iaroslav Mazur | Solo | [`5997ac0`][5997ac0] | [2023-06-13](./v2-core/iaro-2023-06-13.pdf)    |
+| Cantina        | Firm | [`8bd57eb`][8bd57eb] | [2023-06-08](./v2-core/cantina-2023-06-08.pdf) |
+| Rahul Saxena   | Solo | [`8bd57eb`][8bd57eb] | [2023-04-24](./v2-core/rahul-2023-04-24.pdf)   |
+| Iaroslav Mazur | Solo | [`8bd57eb`][8bd57eb] | [2023-04-04](./v2-core/iaro-2023-04-04.pdf)    |
+| HYDN           | Firm | [`8bd57eb`][8bd57eb] | [2023-04-03](./v2-core/hydn-2023-04-03.pdf)    |
+| Hake           | Solo | [`8bd57eb`][8bd57eb] | [2023-03-31](./v2-core/hake-2023-03-31.pdf)    |
 
 ## V2 Periphery
 
@@ -35,6 +35,6 @@ This repo aggregates all smart contract audits performed on Sablier by third-par
 
 [fc54b02]: https://github.com/sablier-labs/v1-protocol/commit/fc54b0233e186232f6d724fa89d1cf7c1f45c688
 
-| Auditor    | Type | Initial Commit       | Report                                           |
-| :--------- | :--- | :------------------- | :----------------------------------------------- |
-| Quantstamp | Firm | [`fc54b02`][fc54b02] | [2019-11-25](./audits/quantstamp-2019-11-25.pdf) |
+| Auditor    | Type | Initial Commit       | Report                                       |
+| :--------- | :--- | :------------------- | :------------------------------------------- |
+| Quantstamp | Firm | [`fc54b02`][fc54b02] | [2019-11-25](./v1/quantstamp-2019-11-25.pdf) |
