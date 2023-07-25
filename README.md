@@ -28,7 +28,7 @@ This repo aggregates all smart contract audits performed on Sablier by third-par
 
 | Auditor        | Type | Initial Commit       | Report                                              |
 | :------------- | :--- | :------------------- | :-------------------------------------------------- |
-| Cantina        | Firm | [`cc9434f`][cc9434f] | [2023-07-12](./v2-periphery/cantina-2023-07-11.pdf) |
+| Cantina        | Firm | [`cc9434f`][cc9434f] | [2023-07-11](./v2-periphery/cantina-2023-07-11.pdf) |
 | Iaroslav Mazur | Solo | [`005df5f`][005df5f] | [2023-07-09](./v2-periphery/iaro-2023-07-09.pdf)    |
 
 ## V1 Protocol
