@@ -7,12 +7,14 @@ This repo aggregates all smart contract audits performed on Sablier by third-par
 
 ## V2 Core
 
-[8bd57eb]: https://github.com/sablier-labs/v2-core/commit/8bd57ebb31fddf6ef262477e5a378027db8b85d8
-[07014ac]: https://github.com/sablier-labs/v2-core/commit/07014ac599908207934f0f5831471e10c8ab3447
-[5997ac0]: https://github.com/sablier-labs/v2-core/commit/5997ac05751960259c03aa166158d5db8aea1675
+[2d19596]: https://github.com/sablier-labs/v2-core/tree/2d19596e02e6c7ddab15ece1d140addee4d6f10c
+[07014ac]: https://github.com/sablier-labs/v2-core/tree/07014ac599908207934f0f5831471e10c8ab3447
+[8bd57eb]: https://github.com/sablier-labs/v2-core/tree/8bd57ebb31fddf6ef262477e5a378027db8b85d8
+[5997ac0]: https://github.com/sablier-labs/v2-core/tree/5997ac05751960259c03aa166158d5db8aea1675
 
 | Auditor        | Type | Initial Commit       | Report                                         |
 | :------------- | :--- | :------------------- | :--------------------------------------------- |
+| Cantina        | Firm | [`2d19596`][2d19596] | [2023-07-11](./v2-core/cantina-2023-11-24.pdf) |
 | Cantina        | Firm | [`07014ac`][07014ac] | [2023-07-11](./v2-core/cantina-2023-07-11.pdf) |
 | Iaroslav Mazur | Solo | [`5997ac0`][5997ac0] | [2023-06-13](./v2-core/iaro-2023-06-13.pdf)    |
 | Cantina        | Firm | [`8bd57eb`][8bd57eb] | [2023-06-08](./v2-core/cantina-2023-06-08.pdf) |
@@ -23,17 +25,19 @@ This repo aggregates all smart contract audits performed on Sablier by third-par
 
 ## V2 Periphery
 
-[cc9434f]: https://github.com/sablier-labs/v2-periphery/commit/cc9434f4f722ba259366cff6f437d5ee3df459cd
-[005df5f]: https://github.com/sablier-labs/v2-periphery/commit/005df5f0452fb2dc4c19a613b9b572982849a35b
+[0004fd2]: https://github.com/sablier-labs/v2-periphery/tree/0004fd2e61e032df3d895045ec414ecb212ddcc8
+[cc9434f]: https://github.com/sablier-labs/v2-periphery/tree/cc9434f4f722ba259366cff6f437d5ee3df459cd
+[005df5f]: https://github.com/sablier-labs/v2-periphery/tree/005df5f0452fb2dc4c19a613b9b572982849a35b
 
 | Auditor        | Type | Initial Commit       | Report                                              |
 | :------------- | :--- | :------------------- | :-------------------------------------------------- |
+| Cantina        | Firm | [`0004fd2`][0004fd2] | [2023-07-11](./v2-periphery/cantina-2023-11-24.pdf) |
 | Cantina        | Firm | [`cc9434f`][cc9434f] | [2023-07-11](./v2-periphery/cantina-2023-07-11.pdf) |
 | Iaroslav Mazur | Solo | [`005df5f`][005df5f] | [2023-07-09](./v2-periphery/iaro-2023-07-09.pdf)    |
 
 ## V1 Protocol
 
-[fc54b02]: https://github.com/sablier-labs/v1-protocol/commit/fc54b0233e186232f6d724fa89d1cf7c1f45c688
+[fc54b02]: https://github.com/sablier-labs/v1-protocol/tree/fc54b0233e186232f6d724fa89d1cf7c1f45c688
 
 | Auditor    | Type | Initial Commit       | Report                                       |
 | :--------- | :--- | :------------------- | :------------------------------------------- |
