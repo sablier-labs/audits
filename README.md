@@ -14,8 +14,8 @@ This repo aggregates all smart contract audits performed on Sablier by third-par
 
 | Auditor           | Type | Initial Commit       | Report                                         |
 | :---------------- | :--- | :------------------- | :--------------------------------------------- |
+| Cantina           | Firm | [`2d19596`][2d19596] | [2023-12-21](./v2-core/cantina-2023-12-21.pdf) |
 | Turing Consulting | Firm | [`2d19596`][2d19596] | [2023-11-30](./v2-core/turing-2023-11-30.pdf)  |
-| Cantina           | Firm | [`2d19596`][2d19596] | [2023-11-24](./v2-core/cantina-2023-11-24.pdf) |
 | Cantina           | Firm | [`07014ac`][07014ac] | [2023-07-11](./v2-core/cantina-2023-07-11.pdf) |
 | Iaroslav Mazur    | Solo | [`5997ac0`][5997ac0] | [2023-06-13](./v2-core/iaro-2023-06-13.pdf)    |
 | Cantina           | Firm | [`8bd57eb`][8bd57eb] | [2023-06-08](./v2-core/cantina-2023-06-08.pdf) |
@@ -32,8 +32,8 @@ This repo aggregates all smart contract audits performed on Sablier by third-par
 
 | Auditor           | Type | Initial Commit       | Report                                              |
 | :---------------- | :--- | :------------------- | :-------------------------------------------------- |
+| Cantina           | Firm | [`0004fd2`][0004fd2] | [2023-12-21](./v2-periphery/cantina-2023-12-21.pdf) |
 | Turing Consulting | Firm | [`0004fd2`][0004fd2] | [2023-11-30](./v2-periphery/turing-2023-11-30.pdf)  |
-| Cantina           | Firm | [`0004fd2`][0004fd2] | [2023-11-24](./v2-periphery/cantina-2023-11-24.pdf) |
 | Cantina           | Firm | [`cc9434f`][cc9434f] | [2023-07-11](./v2-periphery/cantina-2023-07-11.pdf) |
 | Iaroslav Mazur    | Solo | [`005df5f`][005df5f] | [2023-07-09](./v2-periphery/iaro-2023-07-09.pdf)    |
 
