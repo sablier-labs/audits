@@ -7,6 +7,7 @@ This repo aggregates all smart contract audits performed on Sablier by third-par
 
 ## V2 Core
 
+[abf7154]: https://github.com/sablier-labs/v2-core/tree/abf7154d5371ab957b86fce9a8a4801499573d63
 [c85c66a]: https://github.com/sablier-labs/v2-core/tree/c85c66ac0a3f3f287ba10a5c267c1ce67d1b6aeb
 [389b6a8]: https://github.com/sablier-labs/v2-core/tree/389b6a86ab705c561ec4212cc0e2c92f1892fa85
 [2d19596]: https://github.com/sablier-labs/v2-core/tree/2d19596e02e6c7ddab15ece1d140addee4d6f10c
@@ -16,6 +17,7 @@ This repo aggregates all smart contract audits performed on Sablier by third-par
 
 | Auditor           | Type    | Initial Commit       | Report                                         |
 | :---------------- | :------ | :------------------- | :--------------------------------------------- |
+| Egis Security     | Firm    | [`abf7154`][abf7154] | [2024-06-28](./v2/core/egis-2024-06-28.md)     |
 | Codehawks         | Contest | [`c85c66a`][c85c66a] | [2024-06-15](./v2/core/codehawk-2024-06-15.md) |
 | Cantina           | Firm    | [`389b6a8`][389b6a8] | [2024-06-13](./v2/core/cantina-2024-06-13.pdf) |
 | Cantina           | Firm    | [`2d19596`][2d19596] | [2023-12-21](./v2/core/cantina-2023-12-21.pdf) |
