@@ -18,19 +18,19 @@ This repo aggregates all smart contract audits performed on Sablier by third-par
 
 | Auditor           | Type    | Initial Commit       | Report                                         |
 | :---------------- | :------ | :------------------- | :--------------------------------------------- |
-| Cantina           | Firm    | [`3af8a4d`][3af8a4d] | [2024-07-03](./v2/core/cantina-2024-07-03.pdf) |
-| Egis Security     | Firm    | [`abf7154`][abf7154] | [2024-06-28](./v2/core/egis-2024-06-28.md)     |
-| Codehawks         | Contest | [`c85c66a`][c85c66a] | [2024-06-15](./v2/core/codehawk-2024-06-15.md) |
-| Cantina           | Firm    | [`389b6a8`][389b6a8] | [2024-06-13](./v2/core/cantina-2024-06-13.pdf) |
-| Cantina           | Firm    | [`2d19596`][2d19596] | [2023-12-21](./v2/core/cantina-2023-12-21.pdf) |
-| Turing Consulting | Firm    | [`2d19596`][2d19596] | [2023-11-30](./v2/core/turing-2023-11-30.pdf)  |
-| Cantina           | Firm    | [`07014ac`][07014ac] | [2023-07-11](./v2/core/cantina-2023-07-11.pdf) |
-| Iaroslav Mazur    | Solo    | [`5997ac0`][5997ac0] | [2023-06-13](./v2/core/iaro-2023-06-13.pdf)    |
-| Cantina           | Firm    | [`8bd57eb`][8bd57eb] | [2023-06-08](./v2/core/cantina-2023-06-08.pdf) |
-| Rahul Saxena      | Solo    | [`8bd57eb`][8bd57eb] | [2023-04-24](./v2/core/rahul-2023-04-24.pdf)   |
-| Iaroslav Mazur    | Solo    | [`8bd57eb`][8bd57eb] | [2023-04-04](./v2/core/iaro-2023-04-04.pdf)    |
-| HYDN              | Firm    | [`8bd57eb`][8bd57eb] | [2023-04-03](./v2/core/hydn-2023-04-03.pdf)    |
-| Hake              | Solo    | [`8bd57eb`][8bd57eb] | [2023-03-31](./v2/core/hake-2023-03-31.pdf)    |
+| Cantina           | Firm    | [`3af8a4d`][3af8a4d] | [2024-07-03](./v2-core/cantina-2024-07-03.pdf) |
+| Egis Security     | Firm    | [`abf7154`][abf7154] | [2024-06-28](./v2-core/egis-2024-06-28.md)     |
+| Codehawks         | Contest | [`c85c66a`][c85c66a] | [2024-06-15](./v2-core/codehawk-2024-06-15.md) |
+| Cantina           | Firm    | [`389b6a8`][389b6a8] | [2024-06-13](./v2-core/cantina-2024-06-13.pdf) |
+| Cantina           | Firm    | [`2d19596`][2d19596] | [2023-12-21](./v2-core/cantina-2023-12-21.pdf) |
+| Turing Consulting | Firm    | [`2d19596`][2d19596] | [2023-11-30](./v2-core/turing-2023-11-30.pdf)  |
+| Cantina           | Firm    | [`07014ac`][07014ac] | [2023-07-11](./v2-core/cantina-2023-07-11.pdf) |
+| Iaroslav Mazur    | Solo    | [`5997ac0`][5997ac0] | [2023-06-13](./v2-core/iaro-2023-06-13.pdf)    |
+| Cantina           | Firm    | [`8bd57eb`][8bd57eb] | [2023-06-08](./v2-core/cantina-2023-06-08.pdf) |
+| Rahul Saxena      | Solo    | [`8bd57eb`][8bd57eb] | [2023-04-24](./v2-core/rahul-2023-04-24.pdf)   |
+| Iaroslav Mazur    | Solo    | [`8bd57eb`][8bd57eb] | [2023-04-04](./v2-core/iaro-2023-04-04.pdf)    |
+| HYDN              | Firm    | [`8bd57eb`][8bd57eb] | [2023-04-03](./v2-core/hydn-2023-04-03.pdf)    |
+| Hake              | Solo    | [`8bd57eb`][8bd57eb] | [2023-03-31](./v2-core/hake-2023-03-31.pdf)    |
 
 ## V2 Periphery
 
@@ -43,13 +43,13 @@ This repo aggregates all smart contract audits performed on Sablier by third-par
 
 | Auditor           | Type    | Initial Commit       | Report                                              |
 | :---------------- | :------ | :------------------- | :-------------------------------------------------- |
-| Cantina           | Firm    | [`9d7a15b`][9d7a15b] | [2024-07-03](./v2/periphery/cantina-2024-07-03.pdf) |
-| Codehawks         | Contest | [`eb2983d`][eb2983d] | [2024-06-15](./v2/periphery/codehawk-2024-06-15.md) |
-| Cantina           | Firm    | [`ec5750c`][ec5750c] | [2024-06-13](./v2/periphery/cantina-2024-06-13.pdf) |
-| Cantina           | Firm    | [`0004fd2`][0004fd2] | [2023-12-21](./v2/periphery/cantina-2023-12-21.pdf) |
-| Turing Consulting | Firm    | [`0004fd2`][0004fd2] | [2023-11-30](./v2/periphery/turing-2023-11-30.pdf)  |
-| Cantina           | Firm    | [`cc9434f`][cc9434f] | [2023-07-11](./v2/periphery/cantina-2023-07-11.pdf) |
-| Iaroslav Mazur    | Solo    | [`005df5f`][005df5f] | [2023-07-09](./v2/periphery/iaro-2023-07-09.pdf)    |
+| Cantina           | Firm    | [`9d7a15b`][9d7a15b] | [2024-07-03](./v2-periphery/cantina-2024-07-03.pdf) |
+| Codehawks         | Contest | [`eb2983d`][eb2983d] | [2024-06-15](./v2-periphery/codehawk-2024-06-15.md) |
+| Cantina           | Firm    | [`ec5750c`][ec5750c] | [2024-06-13](./v2-periphery/cantina-2024-06-13.pdf) |
+| Cantina           | Firm    | [`0004fd2`][0004fd2] | [2023-12-21](./v2-periphery/cantina-2023-12-21.pdf) |
+| Turing Consulting | Firm    | [`0004fd2`][0004fd2] | [2023-11-30](./v2-periphery/turing-2023-11-30.pdf)  |
+| Cantina           | Firm    | [`cc9434f`][cc9434f] | [2023-07-11](./v2-periphery/cantina-2023-07-11.pdf) |
+| Iaroslav Mazur    | Solo    | [`005df5f`][005df5f] | [2023-07-09](./v2-periphery/iaro-2023-07-09.pdf)    |
 
 ## V1 Protocol
 
