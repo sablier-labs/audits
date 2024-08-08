@@ -61,16 +61,16 @@ This repo aggregates all smart contract audits performed on Sablier by third-par
 
 ## Code Praise
 
-What the community has to say about Sablier codebase:
+What the community says about Sablier's code base:
 
-1. Patrick Collins on the [categorization of tests](https://x.com/PatrickAlphaC/status/1715064363105587309).
-2. Georgios Konstantopoulos on [foundry best practices](https://x.com/gakonst/status/1681792186281521162) employed by
-   Sablier.
-3. Pop Punk on [implementation](https://x.com/PopPunkOnChain/status/1681858703463424000).
-4. Zach Obront on [testing methodology](https://x.com/zachobront/status/1668998130392616966) and on
+1. Zach Obront on [testing methodology](https://x.com/zachobront/status/1668998130392616966) and on
    [test quality](https://x.com/zachobront/status/1680629892742782977).
-5. Alan on [code review](https://x.com/ltsCuzzo/status/1681959372698841094).
-6. Anton Cheng on [focus on details](https://x.com/antonttc/status/1680046043701088258).
-7. r4bbit recommends Solidity devs to [study Sablier](https://x.com/0x_r4bbit/status/1681769698784862208).
-8. Shafu on the [use of BTT](https://x.com/shafu0x/status/1683976749309100033).
-9. Solidity devs on [code clarity and structure](https://x.com/PaulRBerg/status/1732327663312797700).
+1. Georgios Konstantopoulos on [Foundry best practices](https://x.com/gakonst/status/1681792186281521162) employed by
+   Sablier.
+1. Patrick Collins on the [categorization of tests](https://x.com/PatrickAlphaC/status/1715064363105587309).
+1. Pop Punk on [implementation](https://x.com/PopPunkOnChain/status/1681858703463424000).
+1. Alan on [code review](https://x.com/ltsCuzzo/status/1681959372698841094).
+1. Anton Cheng on [focus on details](https://x.com/antonttc/status/1680046043701088258).
+1. r4bbit recommends Solidity devs to [study Sablier](https://x.com/0x_r4bbit/status/1681769698784862208).
+1. Shafu on the [use of BTT](https://x.com/shafu0x/status/1683976749309100033).
+1. Solidity devs on [code clarity and structure](https://x.com/PaulRBerg/status/1732327663312797700).
