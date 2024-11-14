@@ -8,10 +8,12 @@ This repo aggregates all audits performed on Sablier smart contracts by third-pa
 ## Flow Protocol
 
 [5dc175c]: https://github.com/sablier-labs/flow/tree/5dc175cca189ba0401b1e877a62e5ca13a85384b
+[8348fe5]: https://github.com/sablier-labs/flow/tree/8348fe510fddbe681a1ea055ec65f08c310a0e1c
 
-| Auditors | Types | Commits              | Reports                                          |
-| :------- | :---- | :------------------- | :----------------------------------------------- |
-| Cantina  | Firm  | [`5dc175c`][5dc175c] | [2024-07-03](./lockup/v1.2/20240703_cantina.pdf) |
+| Auditors  | Types   | Commits              | Reports                                        |
+| :-------- | :------ | :------------------- | :--------------------------------------------- |
+| Cantina   | Firm    | [`5dc175c`][5dc175c] | [2024-10-20](./flow/v1.0/20241020_cantina.pdf) |
+| CodeHawks | Contest | [`8348fe5`][8348fe5] | [2024-11-13](./flow/v1.0/20241113_flow.md)     |
 
 ## Lockup Protocol
 
@@ -30,7 +32,7 @@ This repo aggregates all audits performed on Sablier smart contracts by third-pa
 | :------------ | :------ | :----------------------------------------- | :----------------------------------------------- |
 | Cantina       | Firm    | [`36b49d3`][36b49d3], [`9d7a15b`][9d7a15b] | [2024-07-03](./lockup/v1.2/20240703_cantina.pdf) |
 | Egis Security | Firm    | [`abf7154`][abf7154], [`f9defae`][f9defae] | [2024-06-28](./lockup/v1.2/20240628_egis.pdf)    |
-| Codehawks     | Contest | [`c85c66a`][c85c66a], [`eb2983d`][eb2983d] | [2024-06-15](./lockup/v1.2/20240615_codehawk.md) |
+| CodeHawks     | Contest | [`c85c66a`][c85c66a], [`eb2983d`][eb2983d] | [2024-06-15](./lockup/v1.2/20240615_codehawk.md) |
 | Cantina       | Firm    | [`a86edee`][a86edee], [`73831c7`][73831c7] | [2024-06-13](./lockup/v1.2/20240613_cantina.pdf) |
 
 ### v1.1
