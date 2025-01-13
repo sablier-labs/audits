@@ -10,7 +10,7 @@ This repo aggregates all audits performed on Sablier smart contracts by third-pa
 Previously known as `v2-periphery`, the relevant audits can be found under the [Lockup Protocol](#lockup-protocol)
 section.
 
-### v1.0.0
+### v1.3.0
 
 [0b83314]: https://github.com/sablier-labs/airdrops/tree/0b83314f77cc1c4f5c8725c9cc121c9e77fcc94e
 
