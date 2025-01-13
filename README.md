@@ -5,7 +5,30 @@ This repo aggregates all audits performed on Sablier smart contracts by third-pa
 > [!WARNING]  
 > Audits are not a guarantee of correctness. Some parts of the codebase may have been modified after they were audited.
 
+## Airdrops Protocol
+
+Previously known as `v2-periphery`, the relevant audits can be found under the [Lockup Protocol](#lockup-protocol)
+section.
+
+### v1.0.0
+
+[0b83314]: https://github.com/sablier-labs/airdrops/tree/0b83314f77cc1c4f5c8725c9cc121c9e77fcc94e
+
+| Auditors | Types | Commits              | Reports                                              |
+| :------- | :---- | :------------------- | :--------------------------------------------------- |
+| Cantina  | Firm  | [`0b83314`][0b83314] | [2025-01-12](./airdrops/v1.0.0/20250112_cantina.pdf) |
+
 ## Flow Protocol
+
+### v1.1.0
+
+[32ac99c]: https://github.com/sablier-labs/flow/tree/32ac99c89393009166ca05e9a4e75ac34a442139
+
+| Auditors | Types | Commits              | Reports                                          |
+| :------- | :---- | :------------------- | :----------------------------------------------- |
+| Cantina  | Firm  | [`32ac99c`][32ac99c] | [2025-01-12](./flow/v1.1.0/20250112_cantina.pdf) |
+
+### v1.0.0
 
 [5dc175c]: https://github.com/sablier-labs/flow/tree/5dc175cca189ba0401b1e877a62e5ca13a85384b
 [8348fe5]: https://github.com/sablier-labs/flow/tree/8348fe510fddbe681a1ea055ec65f08c310a0e1c
@@ -17,15 +40,23 @@ This repo aggregates all audits performed on Sablier smart contracts by third-pa
 
 ## Lockup Protocol
 
+### v2.0.0
+
+[564c640]: https://github.com/sablier-labs/lockup/tree/564c640311ea9949f47f20d70c156bdd829e31d6
+
+| Auditors | Types | Commits              | Reports                                            |
+| :------- | :---- | :------------------- | :------------------------------------------------- |
+| Cantina  | Firm  | [`564c640`][564c640] | [2025-01-12](./lockup/v2.0.0/20250112_cantina.pdf) |
+
 ### v1.2.0
 
-[36b49d3]: https://github.com/sablier-labs/v2-core/tree/36b49d3bf2a396d19083d28247e8e03d7a3a2ee1
+[36b49d3]: https://github.com/sablier-labs/lockup/tree/36b49d3bf2a396d19083d28247e8e03d7a3a2ee1
 [9d7a15b]: https://github.com/sablier-labs/v2-periphery/tree/9d7a15b0128d549cbac7e33ab2593cfdbf229fc7
-[abf7154]: https://github.com/sablier-labs/v2-core/tree/abf7154d5371ab957b86fce9a8a4801499573d63
+[abf7154]: https://github.com/sablier-labs/lockup/tree/abf7154d5371ab957b86fce9a8a4801499573d63
 [f9defae]: https://github.com/sablier-labs/v2-periphery/tree/f9defaeb185360d09abba3f7e2f748d993063296
-[c85c66a]: https://github.com/sablier-labs/v2-core/tree/c85c66ac0a3f3f287ba10a5c267c1ce67d1b6aeb
+[c85c66a]: https://github.com/sablier-labs/lockup/tree/c85c66ac0a3f3f287ba10a5c267c1ce67d1b6aeb
 [eb2983d]: https://github.com/sablier-labs/v2-periphery/tree/eb2983ddddf05d86f5f4483b23541b3e655f32e6
-[a86edee]: https://github.com/sablier-labs/v2-core/tree/a86edeeecb57a2ba2e6fb5a4a4049e62f0b8f2a6
+[a86edee]: https://github.com/sablier-labs/lockup/tree/a86edeeecb57a2ba2e6fb5a4a4049e62f0b8f2a6
 [73831c7]: https://github.com/sablier-labs/v2-periphery/tree/73831c7dcaa5ec4e2fed6caa0f8040154e53030a
 
 | Auditors      | Types   | Commits                                    | Reports                                            |
@@ -37,9 +68,9 @@ This repo aggregates all audits performed on Sablier smart contracts by third-pa
 
 ### v1.1.x
 
-[e5a227f]: https://github.com/sablier-labs/v2-core/tree/e5a227f77ededaf4d2737b36ed958445ad86eee9
+[e5a227f]: https://github.com/sablier-labs/lockup/tree/e5a227f77ededaf4d2737b36ed958445ad86eee9
 [0004fd2]: https://github.com/sablier-labs/v2-periphery/tree/0004fd2e61e032df3d895045ec414ecb212ddcc8
-[07014ac]: https://github.com/sablier-labs/v2-core/tree/07014ac
+[07014ac]: https://github.com/sablier-labs/lockup/tree/07014ac
 [cc9434f]: https://github.com/sablier-labs/v2-periphery/tree/cc9434f
 [79d88ca]: https://github.com/sablier-labs/v2-periphery/tree/79d88ca
 
@@ -52,9 +83,9 @@ This repo aggregates all audits performed on Sablier smart contracts by third-pa
 
 ### v1.0.x
 
-[5997ac0]: https://github.com/sablier-labs/v2-core/tree/5997ac05751960259c03aa166158d5db8aea1675
+[5997ac0]: https://github.com/sablier-labs/lockup/tree/5997ac05751960259c03aa166158d5db8aea1675
 [005df5f]: https://github.com/sablier-labs/v2-periphery/tree/005df5f0452fb2dc4c19a613b9b572982849a35b
-[8bd57eb]: https://github.com/sablier-labs/v2-core/tree/8bd57ebb31fddf6ef262477e5a378027db8b85d8
+[8bd57eb]: https://github.com/sablier-labs/lockup/tree/8bd57ebb31fddf6ef262477e5a378027db8b85d8
 
 | Auditors       | Types | Commits                                    | Reports                                                                                                         |
 | :------------- | :---- | :----------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
