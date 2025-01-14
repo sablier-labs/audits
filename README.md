@@ -7,8 +7,8 @@ This repo aggregates all audits performed on Sablier smart contracts by third-pa
 
 ## Airdrops Protocol
 
-Previously known as `v2-periphery`, the relevant audits can be found under the [Lockup Protocol](#lockup-protocol)
-section.
+Previously, these contracts were part of `v2-periphery`. You can find audit reports for previous releases under the
+[Lockup Protocol](#lockup-protocol) section.
 
 ### v1.3.0
 
@@ -42,11 +42,11 @@ section.
 
 ### v2.0.0
 
-[564c640]: https://github.com/sablier-labs/lockup/tree/564c640311ea9949f47f20d70c156bdd829e31d6
+[c0e84db]: https://github.com/sablier-labs/lockup/tree/c0e84dbfcae667bccb5022e9ddcefdb0197f21db
 
 | Auditors | Types | Commits              | Reports                                            |
 | :------- | :---- | :------------------- | :------------------------------------------------- |
-| Cantina  | Firm  | [`564c640`][564c640] | [2025-01-12](./lockup/v2.0.0/20250112_cantina.pdf) |
+| Cantina  | Firm  | [`c0e84db`][c0e84db] | [2025-01-12](./lockup/v2.0.0/20250112_cantina.pdf) |
 
 ### v1.2.0
 
