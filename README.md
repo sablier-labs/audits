@@ -42,11 +42,11 @@ Previously, these contracts were part of `v2-periphery`. You can find audit repo
 
 ### v2.0.0
 
-[c0e84db]: https://github.com/sablier-labs/lockup/tree/c0e84dbfcae667bccb5022e9ddcefdb0197f21db
+[076eba9]: https://github.com/sablier-labs/lockup/tree/076eba971fea7bb38fe75ee5108f0589c26152c0
 
 | Auditors | Types | Commits              | Reports                                            |
 | :------- | :---- | :------------------- | :------------------------------------------------- |
-| Cantina  | Firm  | [`c0e84db`][c0e84db] | [2025-01-12](./lockup/v2.0.0/20250112_cantina.pdf) |
+| Cantina  | Firm  | [`076eba9`][076eba9] | [2025-01-12](./lockup/v2.0.0/20250112_cantina.pdf) |
 
 ### v1.2.0
 
