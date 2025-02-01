@@ -14,9 +14,9 @@ Previously, these contracts were part of `v2-periphery`. You can find audit repo
 
 [0b83314]: https://github.com/sablier-labs/airdrops/tree/0b83314f77cc1c4f5c8725c9cc121c9e77fcc94e
 
-| Auditors | Types | Commits              | Reports                                              |
-| :------- | :---- | :------------------- | :--------------------------------------------------- |
-| Cantina  | Firm  | [`0b83314`][0b83314] | [2025-01-12](./airdrops/v1.0.0/20250112_cantina.pdf) |
+| Auditors | Types | Commits              | Reports                                              |                                                                                                                                                      |
+| :------- | :---- | :------------------- | :--------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cantina  | Firm  | [`0b83314`][0b83314] | [2025-01-12](./airdrops/v1.0.0/20250112_cantina.pdf) | [![image](https://files.sablier.com/external/badges/cantina-airdrops-1-3-0.svg)](https://cantina.xyz/portfolio/11615402-c0bc-4170-bf3d-595af10f2ce1) |
 
 ## Flow Protocol
 
@@ -24,9 +24,9 @@ Previously, these contracts were part of `v2-periphery`. You can find audit repo
 
 [32ac99c]: https://github.com/sablier-labs/flow/tree/32ac99c89393009166ca05e9a4e75ac34a442139
 
-| Auditors | Types | Commits              | Reports                                          |
-| :------- | :---- | :------------------- | :----------------------------------------------- |
-| Cantina  | Firm  | [`32ac99c`][32ac99c] | [2025-01-12](./flow/v1.1.0/20250112_cantina.pdf) |
+| Auditors | Types | Commits              | Reports                                          |                                                                                                                                                  |
+| :------- | :---- | :------------------- | :----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Cantina  | Firm  | [`32ac99c`][32ac99c] | [2025-01-12](./flow/v1.1.0/20250112_cantina.pdf) | [![image](https://files.sablier.com/external/badges/cantina-flow-1-1-0.svg)](https://cantina.xyz/portfolio/1daf2e81-62a6-4e53-91d4-135c1a6347b0) |
 
 ### v1.0.0
 
@@ -44,9 +44,9 @@ Previously, these contracts were part of `v2-periphery`. You can find audit repo
 
 [076eba9]: https://github.com/sablier-labs/lockup/tree/076eba971fea7bb38fe75ee5108f0589c26152c0
 
-| Auditors | Types | Commits              | Reports                                            |
-| :------- | :---- | :------------------- | :------------------------------------------------- |
-| Cantina  | Firm  | [`076eba9`][076eba9] | [2025-01-12](./lockup/v2.0.0/20250112_cantina.pdf) |
+| Auditors | Types | Commits              | Reports                                            |                                                                                                                                                    |
+| :------- | :---- | :------------------- | :------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Cantina  | Firm  | [`076eba9`][076eba9] | [2025-01-12](./lockup/v2.0.0/20250112_cantina.pdf) | [![image](https://files.sablier.com/external/badges/cantina-lockup-2-0-0.svg)](https://cantina.xyz/portfolio/606ae33c-c3e6-473f-8dee-dcfa0bf9bffe) |
 
 ### v1.2.0
 
