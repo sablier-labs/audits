@@ -35,8 +35,8 @@ Previously, these contracts were part of `v2-periphery`. You can find audit repo
 
 | Auditors  | Types   | Commits              | Reports                                          |
 | :-------- | :------ | :------------------- | :----------------------------------------------- |
-| Cantina   | Firm    | [`5dc175c`][5dc175c] | [2024-10-20](./flow/v1.0.x/20241020_cantina.pdf) |
-| CodeHawks | Contest | [`8348fe5`][8348fe5] | [2024-11-13](./flow/v1.0.x/20241113_codehawk.md)     |
+| Cantina   | Firm    | [`5dc175c`][5dc175c] | [2024-10-20](./flow/v1.0.0/20241020_cantina.pdf) |
+| CodeHawks | Contest | [`8348fe5`][8348fe5] | [2024-11-13](./flow/v1.0.0/20241113_codehawk.md) |
 
 ## Lockup Protocol
 
