@@ -16,7 +16,7 @@ Previously, these contracts were part of `v2-periphery`. You can find audit repo
 
 | Auditors | Types | Commits              | Reports                                              |                                                                                                                                                      |
 | :------- | :---- | :------------------- | :--------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cantina  | Firm  | [`0b83314`][0b83314] | [2025-01-12](./airdrops/v1.0.0/20250112_cantina.pdf) | [![image](https://files.sablier.com/external/badges/cantina-airdrops-1-3-0.svg)](https://cantina.xyz/portfolio/11615402-c0bc-4170-bf3d-595af10f2ce1) |
+| Cantina  | Firm  | [`0b83314`][0b83314] | [2025-01-12](./airdrops/v1.3.0/20250112_cantina.pdf) | [![image](https://files.sablier.com/external/badges/cantina-airdrops-1-3-0.svg)](https://cantina.xyz/portfolio/11615402-c0bc-4170-bf3d-595af10f2ce1) |
 
 ## Flow Protocol
 
