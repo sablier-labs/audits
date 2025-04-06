@@ -10,6 +10,14 @@ This repo aggregates all audits performed on Sablier smart contracts by third-pa
 Previously, these contracts were part of `v2-periphery`. You can find audit reports for previous releases under the
 [Lockup Protocol](#lockup-protocol) section.
 
+### v1.4.0
+
+[ad350f2]: https://github.com/sablier-labs/airdrops/tree/ad350f2
+
+| Auditors | Types | Commits              | Reports                                              |                                                                                |
+| :------- | :---- | :------------------- | :--------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Cantina  | Firm  | [`ad350f2`][ad350f2] | [2025-04-05](./airdrops/v1.4.0/20250405_cantina.pdf) | ![image](https://files.sablier.com/external/badges/cantina-airdrops-1-3-0.svg) |
+
 ### v1.3.0
 
 [0b83314]: https://github.com/sablier-labs/airdrops/tree/0b83314f77cc1c4f5c8725c9cc121c9e77fcc94e
@@ -19,6 +27,14 @@ Previously, these contracts were part of `v2-periphery`. You can find audit repo
 | Cantina  | Firm  | [`0b83314`][0b83314] | [2025-01-12](./airdrops/v1.3.0/20250112_cantina.pdf) | [![image](https://files.sablier.com/external/badges/cantina-airdrops-1-3-0.svg)](https://cantina.xyz/portfolio/11615402-c0bc-4170-bf3d-595af10f2ce1) |
 
 ## Flow Protocol
+
+### v1.2.0
+
+[3413c23]: https://github.com/sablier-labs/flow/tree/3413c23
+
+| Auditors | Types | Commits              | Reports                                          |                                                                            |
+| :------- | :---- | :------------------- | :----------------------------------------------- | -------------------------------------------------------------------------- |
+| Cantina  | Firm  | [`3413c23`][3413c23] | [2025-04-05](./flow/v1.2.0/20250405_cantina.pdf) | ![image](https://files.sablier.com/external/badges/cantina-flow-1-1-0.svg) |
 
 ### v1.1.0
 
@@ -39,6 +55,14 @@ Previously, these contracts were part of `v2-periphery`. You can find audit repo
 | CodeHawks | Contest | [`8348fe5`][8348fe5] | [2024-11-13](./flow/v1.0.0/20241113_codehawk.md) |
 
 ## Lockup Protocol
+
+### v2.1.0
+
+[8f32355]: https://github.com/sablier-labs/lockup/tree/8f32355
+
+| Auditors | Types | Commits              | Reports                                            |                                                                              |
+| :------- | :---- | :------------------- | :------------------------------------------------- | ---------------------------------------------------------------------------- |
+| Cantina  | Firm  | [`8f32355`][8f32355] | [2025-04-05](./lockup/v2.1.0/20250405_cantina.pdf) | ![image](https://files.sablier.com/external/badges/cantina-lockup-2-0-0.svg) |
 
 ### v2.0.0
 
