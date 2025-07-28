@@ -13,36 +13,50 @@ Previously, these contracts were part of `v2-periphery`. You can find audit repo
 ### v1.4.0
 
 [ad350f2]: https://github.com/sablier-labs/airdrops/tree/ad350f2
+[d4eb8de]: https://github.com/sablier-labs/airdrops/tree/d4eb8de
 
-| Auditors | Types | Commits              | Reports                                              |                                                                                |
-| :------- | :---- | :------------------- | :--------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Cantina  | Firm  | [`ad350f2`][ad350f2] | [2025-04-05](./airdrops/v1.4.0/20250405_cantina.pdf) | ![image](https://files.sablier.com/external/badges/cantina-airdrops-1-3-0.svg) |
+| Auditors | Types | Commits              | Reports                                              |                                                                                                                                       |
+| :------- | :---- | :------------------- | :--------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Cantina  | Firm  | [`d4eb8de`][d4eb8de] | [2025-07-28](./airdrops/v1.4.0/20250728_cantina.pdf) | [![image](https://files.sablier.com/external/badges/cantina.svg)](https://cantina.xyz/portfolio/6ace524c-aa43-42ec-afcc-ea9173ba4679) |
+| Cantina  | Firm  | [`ad350f2`][ad350f2] | [2025-04-05](./airdrops/v1.4.0/20250405_cantina.pdf) | ![image](https://files.sablier.com/external/badges/cantina.svg)                                                                       |
 
 ### v1.3.0
 
 [0b83314]: https://github.com/sablier-labs/airdrops/tree/0b83314f77cc1c4f5c8725c9cc121c9e77fcc94e
 
-| Auditors | Types | Commits              | Reports                                              |                                                                                                                                                      |
-| :------- | :---- | :------------------- | :--------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cantina  | Firm  | [`0b83314`][0b83314] | [2025-01-12](./airdrops/v1.3.0/20250112_cantina.pdf) | [![image](https://files.sablier.com/external/badges/cantina-airdrops-1-3-0.svg)](https://cantina.xyz/portfolio/11615402-c0bc-4170-bf3d-595af10f2ce1) |
+| Auditors | Types | Commits              | Reports                                              |                                                                                                                                       |
+| :------- | :---- | :------------------- | :--------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Cantina  | Firm  | [`0b83314`][0b83314] | [2025-01-12](./airdrops/v1.3.0/20250112_cantina.pdf) | [![image](https://files.sablier.com/external/badges/cantina.svg)](https://cantina.xyz/portfolio/11615402-c0bc-4170-bf3d-595af10f2ce1) |
+
+## EVM Utils
+
+### v1.0.0
+
+[9a4139f]: https://github.com/sablier-labs/evm-utils/tree/9a4139f
+
+| Auditors | Types | Commits              | Reports                                               |                                                                                                                                       |
+| :------- | :---- | :------------------- | :---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Cantina  | Firm  | [`9a4139f`][9a4139f] | [2025-07-28](./evm-utils/v1.0.0/20250728_cantina.pdf) | [![image](https://files.sablier.com/external/badges/cantina.svg)](https://cantina.xyz/portfolio/6b9510a2-00e9-438d-8392-c4a46b3143bb) |
 
 ## Flow Protocol
 
 ### v1.2.0
 
 [3413c23]: https://github.com/sablier-labs/flow/tree/3413c23
+[d40100a]: https://github.com/sablier-labs/flow/tree/d40100a
 
-| Auditors | Types | Commits              | Reports                                          |                                                                            |
-| :------- | :---- | :------------------- | :----------------------------------------------- | -------------------------------------------------------------------------- |
-| Cantina  | Firm  | [`3413c23`][3413c23] | [2025-04-05](./flow/v1.2.0/20250405_cantina.pdf) | ![image](https://files.sablier.com/external/badges/cantina-flow-1-1-0.svg) |
+| Auditors | Types | Commits              | Reports                                          |                                                                                                                                       |
+| :------- | :---- | :------------------- | :----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Cantina  | Firm  | [`d40100a`][d40100a] | [2025-07-28](./flow/v1.2.0/20250728_cantina.pdf) | [![image](https://files.sablier.com/external/badges/cantina.svg)](https://cantina.xyz/portfolio/2246f546-a52e-4ea8-9eb9-1290388302ff) |
+| Cantina  | Firm  | [`3413c23`][3413c23] | [2025-04-05](./flow/v1.2.0/20250405_cantina.pdf) | ![image](https://files.sablier.com/external/badges/cantina.svg)                                                                       |
 
 ### v1.1.0
 
 [32ac99c]: https://github.com/sablier-labs/flow/tree/32ac99c89393009166ca05e9a4e75ac34a442139
 
-| Auditors | Types | Commits              | Reports                                          |                                                                                                                                                  |
-| :------- | :---- | :------------------- | :----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Cantina  | Firm  | [`32ac99c`][32ac99c] | [2025-01-12](./flow/v1.1.0/20250112_cantina.pdf) | [![image](https://files.sablier.com/external/badges/cantina-flow-1-1-0.svg)](https://cantina.xyz/portfolio/1daf2e81-62a6-4e53-91d4-135c1a6347b0) |
+| Auditors | Types | Commits              | Reports                                          |                                                                                                                                       |
+| :------- | :---- | :------------------- | :----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Cantina  | Firm  | [`32ac99c`][32ac99c] | [2025-01-12](./flow/v1.1.0/20250112_cantina.pdf) | [![image](https://files.sablier.com/external/badges/cantina.svg)](https://cantina.xyz/portfolio/1daf2e81-62a6-4e53-91d4-135c1a6347b0) |
 
 ### v1.0.0
 
@@ -59,18 +73,20 @@ Previously, these contracts were part of `v2-periphery`. You can find audit repo
 ### v2.1.0
 
 [8f32355]: https://github.com/sablier-labs/lockup/tree/8f32355
+[6341f0f]: https://github.com/sablier-labs/lockup/tree/6341f0f
 
-| Auditors | Types | Commits              | Reports                                            |                                                                              |
-| :------- | :---- | :------------------- | :------------------------------------------------- | ---------------------------------------------------------------------------- |
-| Cantina  | Firm  | [`8f32355`][8f32355] | [2025-04-05](./lockup/v2.1.0/20250405_cantina.pdf) | ![image](https://files.sablier.com/external/badges/cantina-lockup-2-0-0.svg) |
+| Auditors | Types | Commits              | Reports                                            |                                                                                                                                       |
+| :------- | :---- | :------------------- | :------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Cantina  | Firm  | [`6341f0f`][6341f0f] | [2025-07-28](./lockup/v2.1.0/20250728_cantina.pdf) | [![image](https://files.sablier.com/external/badges/cantina.svg)](https://cantina.xyz/portfolio/542fe58d-cb3c-45b2-9e95-5e2cdc881cfa) |
+| Cantina  | Firm  | [`8f32355`][8f32355] | [2025-04-05](./lockup/v2.1.0/20250405_cantina.pdf) | ![image](https://files.sablier.com/external/badges/cantina.svg)                                                                       |
 
 ### v2.0.0
 
 [076eba9]: https://github.com/sablier-labs/lockup/tree/076eba971fea7bb38fe75ee5108f0589c26152c0
 
-| Auditors | Types | Commits              | Reports                                            |                                                                                                                                                    |
-| :------- | :---- | :------------------- | :------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cantina  | Firm  | [`076eba9`][076eba9] | [2025-01-12](./lockup/v2.0.0/20250112_cantina.pdf) | [![image](https://files.sablier.com/external/badges/cantina-lockup-2-0-0.svg)](https://cantina.xyz/portfolio/606ae33c-c3e6-473f-8dee-dcfa0bf9bffe) |
+| Auditors | Types | Commits              | Reports                                            |                                                                                                                                       |
+| :------- | :---- | :------------------- | :------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Cantina  | Firm  | [`076eba9`][076eba9] | [2025-01-12](./lockup/v2.0.0/20250112_cantina.pdf) | [![image](https://files.sablier.com/external/badges/cantina.svg)](https://cantina.xyz/portfolio/606ae33c-c3e6-473f-8dee-dcfa0bf9bffe) |
 
 ### v1.2.0
 
