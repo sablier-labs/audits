@@ -12,15 +12,15 @@ This repo aggregates all audits performed on Sablier smart contracts by third-pa
 Previously, these contracts were part of `v2-periphery`. You can find audit reports for previous releases under the
 [Lockup Protocol](#lockup-protocol) section.
 
-### v1.4.0
+### v2.0.0
 
 [ad350f2]: https://github.com/sablier-labs/airdrops/tree/ad350f2
 [d4eb8de]: https://github.com/sablier-labs/airdrops/tree/d4eb8de
 
 | Auditors | Types | Commits              | Reports                                              |                                                                                               |
 | :------- | :---- | :------------------- | :--------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Cantina  | Firm  | [`d4eb8de`][d4eb8de] | [2025-07-28](./airdrops/v1.4.0/20250728_cantina.pdf) | [![cantina][cantina-img]](https://cantina.xyz/portfolio/6ace524c-aa43-42ec-afcc-ea9173ba4679) |
-| Cantina  | Firm  | [`ad350f2`][ad350f2] | [2025-04-05](./airdrops/v1.4.0/20250405_cantina.pdf) | ![cantina][cantina-img]                                                                       |
+| Cantina  | Firm  | [`d4eb8de`][d4eb8de] | [2025-07-28](./airdrops/v2.0.0/20250728_cantina.pdf) | [![cantina][cantina-img]](https://cantina.xyz/portfolio/6ace524c-aa43-42ec-afcc-ea9173ba4679) |
+| Cantina  | Firm  | [`ad350f2`][ad350f2] | [2025-04-05](./airdrops/v2.0.0/20250405_cantina.pdf) | ![cantina][cantina-img]                                                                       |
 
 ### v1.3.0
 
@@ -42,15 +42,15 @@ Previously, these contracts were part of `v2-periphery`. You can find audit repo
 
 ## Flow Protocol
 
-### v1.2.0
+### v2.0.0
 
 [3413c23]: https://github.com/sablier-labs/flow/tree/3413c23
 [d40100a]: https://github.com/sablier-labs/flow/tree/d40100a
 
 | Auditors | Types | Commits              | Reports                                          |                                                                                               |
 | :------- | :---- | :------------------- | :----------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Cantina  | Firm  | [`d40100a`][d40100a] | [2025-07-28](./flow/v1.2.0/20250728_cantina.pdf) | [![cantina][cantina-img]](https://cantina.xyz/portfolio/2246f546-a52e-4ea8-9eb9-1290388302ff) |
-| Cantina  | Firm  | [`3413c23`][3413c23] | [2025-04-05](./flow/v1.2.0/20250405_cantina.pdf) | ![cantina][cantina-img]                                                                       |
+| Cantina  | Firm  | [`d40100a`][d40100a] | [2025-07-28](./flow/v2.0.0/20250728_cantina.pdf) | [![cantina][cantina-img]](https://cantina.xyz/portfolio/2246f546-a52e-4ea8-9eb9-1290388302ff) |
+| Cantina  | Firm  | [`3413c23`][3413c23] | [2025-04-05](./flow/v2.0.0/20250405_cantina.pdf) | ![cantina][cantina-img]                                                                       |
 
 ### v1.1.0
 
@@ -72,15 +72,15 @@ Previously, these contracts were part of `v2-periphery`. You can find audit repo
 
 ## Lockup Protocol
 
-### v2.1.0
+### v3.0.0
 
 [8f32355]: https://github.com/sablier-labs/lockup/tree/8f32355
 [6341f0f]: https://github.com/sablier-labs/lockup/tree/6341f0f
 
 | Auditors | Types | Commits              | Reports                                            |                                                                                               |
 | :------- | :---- | :------------------- | :------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Cantina  | Firm  | [`6341f0f`][6341f0f] | [2025-07-28](./lockup/v2.1.0/20250728_cantina.pdf) | [![cantina][cantina-img]](https://cantina.xyz/portfolio/542fe58d-cb3c-45b2-9e95-5e2cdc881cfa) |
-| Cantina  | Firm  | [`8f32355`][8f32355] | [2025-04-05](./lockup/v2.1.0/20250405_cantina.pdf) | ![cantina][cantina-img]                                                                       |
+| Cantina  | Firm  | [`6341f0f`][6341f0f] | [2025-07-28](./lockup/v3.0.0/20250728_cantina.pdf) | [![cantina][cantina-img]](https://cantina.xyz/portfolio/542fe58d-cb3c-45b2-9e95-5e2cdc881cfa) |
+| Cantina  | Firm  | [`8f32355`][8f32355] | [2025-04-05](./lockup/v3.0.0/20250405_cantina.pdf) | ![cantina][cantina-img]                                                                       |
 
 ### v2.0.0
 
