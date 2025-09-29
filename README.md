@@ -148,7 +148,7 @@ Previously, these contracts were part of `v2-periphery`. You can find audit repo
 | :------------- | :---- | :------------------- | :--------------------------------------------------------- |
 | ChainDefenders | Firm  | [`d6d49b9`][d6d49b9] | [2025-09-29](./staking/v1.0.0/20250929_chaindefenders.pdf) |
 
-### Legacy
+## Legacy
 
 [fc54b02]: https://github.com/sablier-labs/v1-protocol/tree/fc54b0233e186232f6d724fa89d1cf7c1f45c688
 
