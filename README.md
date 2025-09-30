@@ -138,6 +138,16 @@ Previously, these contracts were part of `v2-periphery`. You can find audit repo
 | HYDN           | Firm  | [`8bd57eb`][8bd57eb]                       | [2023-04-03](./lockup/v1.0/20230403_hydn.pdf)                                                               |
 | Hake           | Solo  | [`8bd57eb`][8bd57eb]                       | [2023-03-31](./lockup/v1.0/20230331_hake.pdf)                                                               |
 
+## SolSab
+
+[SolSab](https://github.com/sablier-labs/solsab/) is the Solana implementation of the Sablier protocol.
+
+[2883177]: https://github.com/sablier-labs/solsab/tree/2883177
+
+| Auditors | Types | Commits              | Reports                                          |
+| :------- | :---- | :------------------- | :----------------------------------------------- |
+| Cantina  | Firm  | [`2883177`][2883177] | [2025-08-25](./solsab/v1.0/20250825_cantina.pdf) |
+
 ## Staking
 
 ### v1.0
