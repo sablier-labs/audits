@@ -146,7 +146,7 @@ Previously, these contracts were part of `v2-periphery`. You can find audit repo
 
 | Auditors | Types | Commits              | Reports                                          |
 | :------- | :---- | :------------------- | :----------------------------------------------- |
-| Cantina  | Firm  | [`2883177`][2883177] | [2025-09-29](./solsab/v1.0/20250825_cantina.pdf) |
+| Cantina  | Firm  | [`2883177`][2883177] | [2025-08-25](./solsab/v1.0/20250825_cantina.pdf) |
 
 ## Staking
 
