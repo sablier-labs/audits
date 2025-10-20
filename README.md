@@ -148,14 +148,18 @@ Previously, these contracts were part of `v2-periphery`. You can find audit repo
 | :------- | :---- | :------------------- | :----------------------------------------------- |
 | Cantina  | Firm  | [`2883177`][2883177] | [2025-08-25](./solsab/v1.0/20250825_cantina.pdf) |
 
-## Staking
+## Staking Protocol
+
+[Staking Protocol](https://github.com/sablier-labs/staking) enables staking of both ERC20 tokens and token streams at the same time.
 
 ### v1.0
 
+[c9e9bdc]: https://github.com/sablier-labs/staking/tree/c9e9bdc
 [d6d49b9]: https://github.com/sablier-labs/staking/tree/d6d49b9
 
 | Auditors       | Types | Commits              | Reports                                                  |
 | :------------- | :---- | :------------------- | :------------------------------------------------------- |
+| Cantina        | Firm  | [`c9e9bdc`][c9e9bdc] | [2025-10-14](./staking/v1.0/20251014_cantina.pdf)        |
 | ChainDefenders | Firm  | [`d6d49b9`][d6d49b9] | [2025-09-29](./staking/v1.0/20250929_chaindefenders.pdf) |
 
 ## Legacy
