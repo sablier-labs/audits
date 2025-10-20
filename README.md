@@ -148,7 +148,9 @@ Previously, these contracts were part of `v2-periphery`. You can find audit repo
 | :------- | :---- | :------------------- | :----------------------------------------------- |
 | Cantina  | Firm  | [`2883177`][2883177] | [2025-08-25](./solsab/v1.0/20250825_cantina.pdf) |
 
-## Staking
+## Staking Protocol
+
+[Staking Protocol](https://github.com/sablier-labs/staking) enables staking of both ERC20 tokens and token streams at the same time.
 
 ### v1.0
 
