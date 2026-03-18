@@ -13,6 +13,14 @@ This repo aggregates all audits performed on Sablier smart contracts by third-pa
 Previously, these contracts were part of `v2-periphery`. You can find audit reports for previous releases under the
 [Lockup Protocol](#lockup-protocol) section.
 
+### v3.0
+
+[airdrops-f9c14e2f]: https://github.com/sablier-labs/evm-monorepo/tree/f9c14e2f/airdrops
+
+| Auditors | Types | Commits                         | Reports                                            |                                                                                               |
+| :------- | :---- | :------------------------------ | :------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Cantina  | Firm  | [`f9c14e2f`][airdrops-f9c14e2f] | [2026-03-18](./airdrops/v3.0/20260318_cantina.pdf) | [![cantina][cantina-img]](https://cantina.xyz/portfolio/6ace524c-aa43-42ec-afcc-ea9173ba4679) |
+
 ### v2.0
 
 [ad350f2]: https://github.com/sablier-labs/airdrops/tree/ad350f2
@@ -35,13 +43,21 @@ Previously, these contracts were part of `v2-periphery`. You can find audit repo
 
 ### v1.0
 
-[ffae958]: https://github.com/sablier-labs/evm-monorepo/tree/ffae958
+[ffae958]: https://github.com/sablier-labs/evm-monorepo/tree/ffae958/bob
 
 | Auditors | Types | Commits              | Reports                                      |
 | :------- | :---- | :------------------- | :------------------------------------------- |
 | Cyfrin   | Firm  | [`ffae958`][ffae958] | [2026-03-18](./bob/v1.0/20260318_cyfrin.pdf) |
 
 ## EVM Utils
+
+### v2.0
+
+[utils-f9c14e2f]: https://github.com/sablier-labs/evm-monorepo/tree/f9c14e2f/utils
+
+| Auditors | Types | Commits                      | Reports                                             |                                                                                               |
+| :------- | :---- | :--------------------------- | :-------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Cantina  | Firm  | [`f9c14e2f`][utils-f9c14e2f] | [2026-03-18](./evm-utils/v2.0/20260318_cantina.pdf) | [![cantina][cantina-img]](https://cantina.xyz/portfolio/6ace524c-aa43-42ec-afcc-ea9173ba4679) |
 
 ### v1.0
 
@@ -52,6 +68,14 @@ Previously, these contracts were part of `v2-periphery`. You can find audit repo
 | Cantina  | Firm  | [`9a4139f`][9a4139f] | [2025-07-28](./evm-utils/v1.0/20250728_cantina.pdf) | [![cantina][cantina-img]](https://cantina.xyz/portfolio/6b9510a2-00e9-438d-8392-c4a46b3143bb) |
 
 ## Flow Protocol
+
+### v3.0
+
+[flow-f9c14e2f]: https://github.com/sablier-labs/evm-monorepo/tree/f9c14e2f/flow
+
+| Auditors | Types | Commits                     | Reports                                        |                                                                                               |
+| :------- | :---- | :-------------------------- | :--------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Cantina  | Firm  | [`f9c14e2f`][flow-f9c14e2f] | [2026-03-18](./flow/v3.0/20260318_cantina.pdf) | [![cantina][cantina-img]](https://cantina.xyz/portfolio/6ace524c-aa43-42ec-afcc-ea9173ba4679) |
 
 ### v2.0
 
@@ -82,6 +106,14 @@ Previously, these contracts were part of `v2-periphery`. You can find audit repo
 | CodeHawks | Contest | [`8348fe5`][8348fe5] | [2024-11-13](./flow/v1.0/20241113_codehawk.md) |
 
 ## Lockup Protocol
+
+### v4.0
+
+[lockup-f9c14e2f]: https://github.com/sablier-labs/evm-monorepo/tree/f9c14e2f/lockup
+
+| Auditors | Types | Commits                       | Reports                                          |                                                                                               |
+| :------- | :---- | :---------------------------- | :----------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Cantina  | Firm  | [`f9c14e2f`][lockup-f9c14e2f] | [2026-03-18](./lockup/v4.0/20260318_cantina.pdf) | [![cantina][cantina-img]](https://cantina.xyz/portfolio/6ace524c-aa43-42ec-afcc-ea9173ba4679) |
 
 ### v3.0
 
