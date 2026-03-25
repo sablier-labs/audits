@@ -47,7 +47,7 @@ Previously, these contracts were part of `v2-periphery`. You can find audit repo
 
 | Auditors | Types | Commits              | Reports                                      |
 | :------- | :---- | :------------------- | :------------------------------------------- |
-| Cyfrin   | Firm  | [`ffae958`][ffae958] | [2026-03-18](./bob/v1.0/20260318_cyfrin.pdf) |
+| Cyfrin   | Firm  | [`ffae958`][ffae958] | [2026-03-25](./bob/v1.0/20260325_cyfrin.pdf) |
 
 ## EVM Utils
 
