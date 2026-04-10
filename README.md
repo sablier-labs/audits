@@ -45,9 +45,10 @@ Previously, these contracts were part of `v2-periphery`. You can find audit repo
 
 [ffae958]: https://github.com/sablier-labs/evm-monorepo/tree/ffae958/bob
 
-| Auditors | Types | Commits              | Reports                                      |
-| :------- | :---- | :------------------- | :------------------------------------------- |
-| Cyfrin   | Firm  | [`ffae958`][ffae958] | [2026-03-25](./bob/v1.0/20260325_cyfrin.pdf) |
+| Auditors | Types | Commits              | Reports                                                             |
+| :------- | :---- | :------------------- | :------------------------------------------------------------------ |
+| Cyfrin   | Firm  | [`ffae958`][ffae958] | [2026-03-27-Formal-Verification](./bob/v1.0/20260327_cyfrin_fv.pdf) |
+| Cyfrin   | Firm  | [`ffae958`][ffae958] | [2026-03-25](./bob/v1.0/20260325_cyfrin.pdf)                        |
 
 ## EVM Utils
 
